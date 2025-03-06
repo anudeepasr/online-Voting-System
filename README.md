@@ -1,4 +1,4 @@
-# online-Voting-System
+# Ballot Buddy
 Project Overview
 
 Ballot Buddy is an electronic voting system designed to modernize the voting process by providing a secure, accessible, and user-friendly platform. The system ensures efficient election management while enhancing transparency and integrity in the voting process.
